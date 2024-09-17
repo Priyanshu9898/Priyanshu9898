@@ -7,37 +7,38 @@ MCS NCSU'26, TensorFlow Developer Certificate, Full stack developer, Data scienc
 I'm currently pursuing a Master's of Computer Science from North Carolina State University.
 
 ### Some Highlights
-- 📌 Former Software Engineer at Aps Three AI
-- 📌 Former Backend Developer at Zeeirman Trading
-- 📌 Research Intern at Indian Research and Space Organization
-- 📌 200+ Problems Solved on Leetcode 
-- 🎖️ GRE Score of 326 out of 340 | IELTS Score of 8 out of 9
-- 🥇 Graduated with a B.Tech in Computer Science from Pandit Deendayal Energy University with 9.75/10 CGPA
-- 🖋️ Research work includes AI-based healthcare, vision transformers, NLP, audio classification, Machine Learning, Cyber Security.
-- 📌 Ex-Lead of AI/ML Team at Google Developer Student Club of PDEU
-- 📌 Ex-Lead of AI/ML Team at ACM student chapter of PDEU 
-- 📌 Ex-Web Development Head at TEDx PDEU 2023
-- 📌 Published 5 Research Papers in leading conferences and journals such as IEEE and Springer, (other 2 in progress)
+📌 Former Software Engineer at Aps Three AI  
+📌 Former Backend Developer at Zeeirman Trading  
+📌 Research Intern at Indian Research and Space Organization  
+📌 200+ Problems Solved on Leetcode  
+🎖️ GRE Score of 326 out of 340 | IELTS Score of 8 out of 9  
+🥇 Graduated with a B.Tech in Computer Science from Pandit Deendayal Energy University with 9.75/10 CGPA  
+🖋️ Research work includes AI-based healthcare, vision transformers, NLP, audio classification, Machine Learning, Cyber Security.  
+📌 Ex-Lead of AI/ML Team at Google Developer Student Club of PDEU  
+📌 Ex-Lead of AI/ML Team at ACM student chapter of PDEU  
+📌 Ex-Web Development Head at TEDx PDEU 2023  
+📌 Published 5 Research Papers in leading conferences and journals such as IEEE and Springer, (other 2 in progress)  
 
 ### 💪 My Strengths
-1. **Programming Skills**: Python, C/C++, JavaScript, TypeScript, Solidity, SQL, Java, R, Matlab, Git, Bash, LaTeX
-2. **Cloud Services**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
-3. **Web Development**: React, Node.js, Next.js, Redux.js, Express, Flask, FastAPI, Django
-4. **Tools & Platforms**: Tableau, PowerBI, Docker, Git/GitHub, AWS, Azure, Mlflow, DVC, Prisma, PySpark, Hadoop, Redis, Jira
-5. **Databases**: MongoDB, MySQL, Firebase, PostgreSQL
-6. **Machine Learning**: TensorFlow, PyTorch, Computer Vision, Hugging Face, Machine Learning, Deep Learning, NLP
-7. **Certifications**: Deep Learning Specialization, TensorFlow Developer Certificate, Amazon ML Summer School, Google Machine Learning Bootcamp, IBM SkillsBuild Data Analytics Internship Plan
-8. **Communication & Leadership**: Led teams, organized events, and managed projects with cross-functional collaboration.
+1️⃣ **Programming Skills**: Python, C/C++, JavaScript, TypeScript, Solidity, SQL, Java, R, Matlab, Git, Bash, LaTeX  
+2️⃣ **Cloud Services**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)  
+3️⃣ **Web Development**: React, Node.js, Next.js, Redux.js, Express, Flask, FastAPI, Django  
+4️⃣ **Tools & Platforms**: Tableau, PowerBI, Docker, Git/GitHub, AWS, Azure, Mlflow, DVC, Prisma, PySpark, Hadoop, Redis, Jira  
+5️⃣ **Databases**: MongoDB, MySQL, Firebase, PostgreSQL  
+6️⃣ **Machine Learning**: TensorFlow, PyTorch, Computer Vision, Hugging Face, Machine Learning, Deep Learning, NLP  
+7️⃣ **Certifications**: Deep Learning Specialization, TensorFlow Developer Certificate, Amazon ML Summer School, Google Machine Learning Bootcamp, IBM SkillsBuild Data Analytics Internship Plan  
+8️⃣ **Communication & Leadership**: Led teams, organized events, and managed projects with cross-functional collaboration.
 
 ### 🎯 My Goals
-1. 💡 From the moment I started working with computers, I’ve been driven by the idea of designing systems and writing code that impacts people globally.
-2. I aim to work in roles where I can lead, inspire, and manage teams to achieve success.
-3. My main focus is problem-solving and building products that can serve a large audience.
+1️⃣ 💡 From the moment I started working with computers, I’ve been driven by the idea of designing systems and writing code that impacts people globally.  
+2️⃣ I aim to work in roles where I can lead, inspire, and manage teams to achieve success.  
+3️⃣ My main focus is problem-solving and building products that can serve a large audience.
 
-* 🌍  I'm based in Raleigh, North Carolina, USA
-* ✉️  You can contact me at [priyanshumalaviya9@gmail.com](mailto:priyanshumalaviya9@gmail.com)
-* 🧠  I'm doing Research on Generative AI and Blockchain
+* 🌍  I'm based in Raleigh, North Carolina, USA  
+* ✉️  You can contact me at [priyanshumalaviya9@gmail.com](mailto:priyanshumalaviya9@gmail.com)  
+* 🧠  I'm doing Research on Generative AI and Blockchain  
 * 🤝  I'm open to collaborating on Interesting Open source projects
+
 
 
 <a href="https://www.github.com/Priyanshu9898" target="_blank" rel="noreferrer"><img
