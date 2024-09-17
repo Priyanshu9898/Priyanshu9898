@@ -34,9 +34,9 @@ Some Highlights
 2️⃣ I aim to work in roles where I can lead, inspire, and manage teams to achieve success.
 3️⃣ My main focus is problem-solving and building products that can serve a large audience.
 
-* 🌍  I'm based in Gandhinagar, Gujarat, India
-* ✉️  You can contact me at [priyanshumalaviya9210@gmail.com](mailto:priyanshumalaviya9210@gmail.com)
-* 🧠  I'm learning Cloud computing, Big Data
+* 🌍  I'm based in Raleigh, North Carolina, USA
+* ✉️  You can contact me at [priyanshumalaviya9@gmail.com](mailto:priyanshumalaviya9@gmail.com)
+* 🧠  I'm doing Research on Generative AI and Blockchain
 * 🤝  I'm open to collaborating on Interesting Open source projects
 
 <a href="https://www.github.com/Priyanshu9898" target="_blank" rel="noreferrer"><img
