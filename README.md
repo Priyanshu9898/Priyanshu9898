@@ -1,10 +1,38 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Priyanshu Malaviya
 ==========================================================================================================================================
 
-CSE PDEU'24, TensorFlow Developer Certificate, Full stack developer, Data science, Machine learning, Deep Learning, NLP, Researcher, Author
+MCS NCSU'26, TensorFlow Developer Certificate, Full stack developer, Data science, Machine learning, Deep Learning, NLP, Researcher, Author
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-A final year Computer Science student at Pandit Deendayal Energy University, Gandhinagar, I have developed a diverse set of skills and experiences in the field of software development. My areas of expertise include Full Stack development, Data Science, Machine Learning, and Deep Learning, with a particular focus on using Python and TensorFlow. I have earned a number of prestigious certifications and accolades in recognition of my skills, including a TensorFlow Developer Certificate, participation in the Google ML Bootcamp and the Amazon ML Summer School in 2022 and selection as a Microsoft Engage intern mentee in the same year. During my time as a Full Stack Developer intern at Innomatics Research Labs, I honed my skills in software design and development, working on a variety of projects for clients in a range of industries. I have been selected as a member of one of the top 50 teams in the Solve for Tomorrow hackathon organized by Samsung in 2022 out of 18000 teams.
+I'm currently pursuing a Master's of Computer Science from North Carolina State University.
+
+Some Highlights
+📌 Former Software Engineer at Aps Three AI
+📌 Former Backend Developer at Zeeirman Trading
+📌 Research Intern at Indian Research and Space Organization
+📌 200+ Problems Solved on Leetcode 
+🎖️ GRE Score of 326 out of 340 | IELTS Score of 8 out of 9
+🥇 Graduated with a B.Tech in Computer Science from Pandit Deendayal Energy University with 9.75/10 CGPA
+🖋️ Research work includes AI-based healthcare, vision transformers, NLP, audio classification, Machine Learning, Cyber Security.
+📌 Ex-Lead of AI/ML Team at Google Developer Student Club of PDEU
+📌 Ex-Lead of AI/ML Team at  ACM student chapter of PDEU 
+📌 Ex-Web Development Head at  TEDx PDEU 2023
+📌 Published 5 Research Papers in leading conferences and journals such as IEEE and Springer, (other 2 in progress)
+
+💪 My Strengths
+1️⃣ Programming Skills: Python, C/C++, JavaScript, TypeScript, Solidity, SQL, Java, R, Matlab, Git, Bash, LaTeX
+2️⃣ Cloud Services: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
+3️⃣ Web Development: React, Node.js, Next.js, Redux.js, Express, Flask, FastAPI, Django
+4️⃣ Tools & Platforms: Tableau, PowerBI, Docker, Git/GitHub, AWS, Azure, Mlflow, DVC, Prisma, PySpark, Hadoop, Redis, Jira
+5️⃣ Databases: MongoDB, MySQL, Firebase, PostgreSQL
+6️⃣ Machine Learning: TensorFlow, PyTorch, Computer Vision, Hugging Face, Machine Learning, Deep Learning, NLP
+7️⃣ Deep Leaning Specialization, TensorFlow Developer Certificate, Amazon ML Summer School, Google Machine Learning Bootcamp, IBM SkillsBuild Data Analytics Internship Plan
+8️⃣ Communication & Leadership: Led teams, organized events, and managed projects with cross-functional collaboration.
+
+🎯 My Goals
+1️⃣ 💡 From the moment I started working with computers, I’ve been driven by the idea of designing systems and writing code that impacts people globally.
+2️⃣ I aim to work in roles where I can lead, inspire, and manage teams to achieve success.
+3️⃣ My main focus is problem-solving and building products that can serve a large audience.
 
 * 🌍  I'm based in Gandhinagar, Gujarat, India
 * ✉️  You can contact me at [priyanshumalaviya9210@gmail.com](mailto:priyanshumalaviya9210@gmail.com)
