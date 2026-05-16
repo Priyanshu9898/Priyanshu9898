@@ -1,102 +1,119 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Priyanshu Malaviya
-==========================================================================================================================================
+<h1 align="center">Hi, I'm Priyanshu Malaviya 👋</h1>
 
-MCS NCSU'26, TensorFlow Developer Certificate, Full stack developer, Data science, Machine learning, Deep Learning, NLP, Researcher, Author
--------------------------------------------------------------------------------------------------------------------------------------------
-
-I'm currently pursuing a Master's of Computer Science from North Carolina State University.
-
-### Some Highlights
-📌 Former Software Engineer at Aps Three AI  
-📌 Former Backend Developer at Zeeirman Trading  
-📌 Research Intern at Indian Research and Space Organization  
-📌 200+ Problems Solved on Leetcode  
-🎖️ GRE Score of 326 out of 340 | IELTS Score of 8 out of 9  
-🥇 Graduated with a B.Tech in Computer Science from Pandit Deendayal Energy University with 9.75/10 CGPA  
-🖋️ Research work includes AI-based healthcare, vision transformers, NLP, audio classification, Machine Learning, Cyber Security.  
-📌 Ex-Lead of AI/ML Team at Google Developer Student Club of PDEU  
-📌 Ex-Lead of AI/ML Team at ACM student chapter of PDEU  
-📌 Ex-Web Development Head at TEDx PDEU 2023  
-📌 Published 5 Research Papers in leading conferences and journals such as IEEE and Springer, (other 2 in progress)  
-
-### 💪 My Strengths
-1️⃣ **Programming Skills**: Python, C/C++, JavaScript, TypeScript, Solidity, SQL, Java, R, Matlab, Git, Bash, LaTeX  
-2️⃣ **Cloud Services**: Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)  
-3️⃣ **Web Development**: React, Node.js, Next.js, Redux.js, Express, Flask, FastAPI, Django  
-4️⃣ **Tools & Platforms**: Tableau, PowerBI, Docker, Git/GitHub, AWS, Azure, Mlflow, DVC, Prisma, PySpark, Hadoop, Redis, Jira  
-5️⃣ **Databases**: MongoDB, MySQL, Firebase, PostgreSQL  
-6️⃣ **Machine Learning**: TensorFlow, PyTorch, Computer Vision, Hugging Face, Machine Learning, Deep Learning, NLP  
-7️⃣ **Certifications**: Deep Learning Specialization, TensorFlow Developer Certificate, Amazon ML Summer School, Google Machine Learning Bootcamp, IBM SkillsBuild Data Analytics Internship Plan  
-8️⃣ **Communication & Leadership**: Led teams, organized events, and managed projects with cross-functional collaboration.
-
-### 🎯 My Goals
-1️⃣ 💡 From the moment I started working with computers, I’ve been driven by the idea of designing systems and writing code that impacts people globally.  
-2️⃣ I aim to work in roles where I can lead, inspire, and manage teams to achieve success.  
-3️⃣ My main focus is problem-solving and building products that can serve a large audience.
-
-* 🌍  I'm based in Raleigh, North Carolina, USA  
-* ✉️  You can contact me at [priyanshumalaviya9@gmail.com](mailto:priyanshumalaviya9@gmail.com)  
-* 🧠  I'm doing Research on Generative AI and Blockchain  
-* 🤝  I'm open to collaborating on Interesting Open source projects
-
-
-
-<a href="https://www.github.com/Priyanshu9898" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Priyanshu9898?logo=github&style=for-the-badge&color=6366f1&labelColor=171717" /></a><a href="https://www.twitter.com/Priyanshu2281" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Priyanshu2281?logo=twitter&style=for-the-badge&color=6366f1&labelColor=171717"
-/></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
+<p align="center">
+  <b>ML Engineer &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; LLM Systems &nbsp;·&nbsp; Production ML</b><br/>
+  MCS @ NC State · 4.0 GPA · Graduating May 2026 &nbsp;|&nbsp; Open to full-time roles
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshumalaviya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-priyanshumalaviya-6366f1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=171717"/>
+  </a>
+  <a href="https://priyanshumalaviya.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-priyanshumalaviya.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=171717"/>
+  </a>
+  <a href="http://www.medium.com/@priyanshumalaviya9210" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Blog-6366f1?style=for-the-badge&logo=medium&logoColor=white&labelColor=171717"/>
+  </a>
+  <a href="mailto:priyanshumalaviya9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-priyanshumalaviya9@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=171717"/>
+  </a>
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/Priyanshu9898" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/priyanshumalaviya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@priyanshumalaviya9210" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Priyanshu2281" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+## 🚀 What I Build
 
-### Badges
+I build **production ML systems and agentic AI pipelines** that ship at enterprise scale.
 
-<b>My GitHub Stats</b>
+- 🧠 At **Brilliant Earth** — Engineered Snowflake Cortex Agents across **783M+ records**, built an XGBoost conversion-prediction pipeline on **400M+ records with 700+ features** (↑27% accuracy), and designed **MCP-based orchestration** connecting Snowflake, Cortex Search, and Claude API via OAuth 2.0
+- 📱 At **NC State** — Built **Lyra**, a cross-platform mental health app with an on-device **Qwen 2.5 LLM** (HIPAA-compliant), real-time **1,000Hz BLE sensor streaming**, and personalized **IHOPE ML models** exported via ONNX for on-device inference
+- 🛰️ At **ISRO** — Flood forecasting system using satellite imagery + deep learning, achieving **73% improvement** over traditional methods
 
-<a href="http://www.github.com/Priyanshu9898"><img src="https://github-readme-stats.vercel.app/api?username=Priyanshu9898&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="Priyanshu9898's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/Priyanshu9898"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu9898&stroke=ffffff&background=171717&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🛠️ Tech Stack
 
-<a href="http://www.github.com/Priyanshu9898"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Priyanshu9898&bg_color=171717&color=ffffff&line=6366f1&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+**ML & AI**
 
-<a href="https://github.com/Priyanshu9898" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu9898&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=6366f1)
+![PyTorch](https://img.shields.io/badge/PyTorch-171717?style=flat-square&logo=pytorch&logoColor=6366f1)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-171717?style=flat-square&logo=tensorflow&logoColor=6366f1)
+![XGBoost](https://img.shields.io/badge/XGBoost-171717?style=flat-square&logo=python&logoColor=6366f1)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-171717?style=flat-square&logo=huggingface&logoColor=6366f1)
+![ONNX](https://img.shields.io/badge/ONNX-171717?style=flat-square&logo=onnx&logoColor=6366f1)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-171717?style=flat-square&logo=scikit-learn&logoColor=6366f1)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**Agentic AI & LLMs**
+
+![Snowflake](https://img.shields.io/badge/Snowflake_Cortex-171717?style=flat-square&logo=snowflake&logoColor=6366f1)
+![Claude](https://img.shields.io/badge/Claude_API-171717?style=flat-square&logo=anthropic&logoColor=6366f1)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-171717?style=flat-square&logo=python&logoColor=6366f1)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-171717?style=flat-square&logo=openai&logoColor=6366f1)
+![LangChain](https://img.shields.io/badge/LangChain-171717?style=flat-square&logo=chainlink&logoColor=6366f1)
+
+**MLOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-171717?style=flat-square&logo=amazonaws&logoColor=6366f1)
+![Azure](https://img.shields.io/badge/Azure-171717?style=flat-square&logo=microsoftazure&logoColor=6366f1)
+![Docker](https://img.shields.io/badge/Docker-171717?style=flat-square&logo=docker&logoColor=6366f1)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-171717?style=flat-square&logo=githubactions&logoColor=6366f1)
+![MLflow](https://img.shields.io/badge/MLflow-171717?style=flat-square&logo=mlflow&logoColor=6366f1)
+
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-171717?style=flat-square&logo=fastapi&logoColor=6366f1)
+![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=nodedotjs&logoColor=6366f1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171717?style=flat-square&logo=postgresql&logoColor=6366f1)
+![MongoDB](https://img.shields.io/badge/MongoDB-171717?style=flat-square&logo=mongodb&logoColor=6366f1)
+![Redis](https://img.shields.io/badge/Redis-171717?style=flat-square&logo=redis&logoColor=6366f1)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=6366f1)
+![React Native](https://img.shields.io/badge/React_Native-171717?style=flat-square&logo=react&logoColor=6366f1)
+![Next.js](https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=nextdotjs&logoColor=6366f1)
+![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=6366f1)
+
+---
+
+## 📌 Highlights
+
+| | |
+|---|---|
+| 🎓 | MCS @ NC State · **4.0 GPA** · Graduating May 2026 |
+| 🏆 | B.Tech Computer Science · **9.75/10 CGPA** · Pandit Deendayal Energy University |
+| 📄 | **5 research papers** published in IEEE & Springer (2 more in progress) |
+| 💻 | **500+ LeetCode problems** solved |
+| 📝 | GRE **326/340** · IELTS **8/9** |
+| 🛰️ | Research Intern @ **ISRO** |
+| 🤖 | Ex-Lead, AI/ML Team @ **Google Developer Student Club** |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <a href="http://www.github.com/Priyanshu9898">
+    <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu9898&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&show_icons=true" alt="GitHub stats" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="http://www.github.com/Priyanshu9898">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu9898&stroke=ffffff&background=171717&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Priyanshu9898">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu9898&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Open to full-time roles in ML Engineering · Applied Science · AI Engineering · Software Engineering — starting May 2026</i><br/>
+  <a href="mailto:priyanshumalaviya9@gmail.com">priyanshumalaviya9@gmail.com</a>
+</p>
